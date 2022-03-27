@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f34039e4-bcf6-3fce-dc58-43559fc7feab
 resourcetype: Document
 title: '9.85 Lecture 9: Concepts: From definitions to features to theories'
 uid: 74f70058-1076-6d8f-fb46-78bb0585f786

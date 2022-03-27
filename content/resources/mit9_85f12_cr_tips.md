@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ab0e5e19-e28a-c6a1-cd24-c95ca8531ffd
 resourcetype: Document
 title: '9.85 Assignments: Tips on reading research articles'
 uid: 7bb82b1e-53c1-bc46-3898-5a202a2277ca

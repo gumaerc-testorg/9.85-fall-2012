@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ab0e5e19-e28a-c6a1-cd24-c95ca8531ffd
 resourcetype: Document
 title: 'Assignments: Research proposal presentation'
 uid: a09982c8-cd1b-7a0a-45c8-1650d7853e13

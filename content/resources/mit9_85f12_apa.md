@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ab0e5e19-e28a-c6a1-cd24-c95ca8531ffd
 resourcetype: Document
 title: '9.85 Assignments: APA style basics'
 uid: 95944f3e-f59b-ce8f-f4dc-5263b7cf0761

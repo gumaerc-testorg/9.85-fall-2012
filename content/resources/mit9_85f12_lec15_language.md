@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f34039e4-bcf6-3fce-dc58-43559fc7feab
 resourcetype: Document
 title: '9.85 Lecture 15: Language'
 uid: 5b887336-d87c-5ba2-1d66-2dffc5372e77

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f34039e4-bcf6-3fce-dc58-43559fc7feab
 resourcetype: Document
 title: '9.85 Lecture 3: Theoretical perspectives post-Piaget'
 uid: 7e5a5db3-419f-a7ba-a526-f748c87e8a46

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ab0e5e19-e28a-c6a1-cd24-c95ca8531ffd
 resourcetype: Document
 title: '9.85 Assignments: Brochure description'
 uid: dd0aa3f5-3cf2-848d-ee5d-73831b56ca2e

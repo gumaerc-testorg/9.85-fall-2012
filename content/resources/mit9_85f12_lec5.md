@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f34039e4-bcf6-3fce-dc58-43559fc7feab
 resourcetype: Document
 title: '9.85 Lecture 5: Perception and object knowledge'
 uid: 1648f4ef-cbbb-7301-850d-1e1857cd7ba2
