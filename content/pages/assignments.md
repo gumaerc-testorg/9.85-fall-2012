@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides project files for the course assignments, including
+  a methods practicum, brochure, critical response paper, poster, and original research
+  proposal. Also included are supplementary resources on APA style basics and a writing
+  grading rubric.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -27,7 +31,7 @@ PROJECT FILES
 Group practicum
 {{< tdclose >}}
 {{< tdopen >}}
-[Methods practicum (PDF)]({{< baseurl >}}/resources/mit9_85f12_practicum)
+{{% resource_link bc07c58f-3fbb-bf3c-e211-ec3809bdd7ff "Methods practicum (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -38,9 +42,9 @@ Public information brochure
 {{< tdopen >}}
 
 
-[Brochure description (PDF)]({{< baseurl >}}/resources/mit9_85f12_brochure)
+{{% resource_link dd0aa3f5-3cf2-848d-ee5d-73831b56ca2e "Brochure description (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Blank brochure template (PDF)]({{< baseurl >}}/resources/mit9_85f12_brochureblank)
+{{% resource_link 661d388e-6bda-fdac-eeb6-9dde6b8c63e3 "Blank brochure template (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -53,9 +57,9 @@ Critical response paper
 {{< tdopen >}}
 
 
-[General critical response guidelines (PDF)]({{< baseurl >}}/resources/mit9_85f12_cr_guidelines)
+{{% resource_link 82ca7a70-871c-379d-42fc-88faa6cf3870 "General critical response guidelines (PDF)" %}}
 
-[Tips on reading research articles (PDF)]({{< baseurl >}}/resources/mit9_85f12_cr_tips)
+{{% resource_link 7bb82b1e-53c1-bc46-3898-5a202a2277ca "Tips on reading research articles (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -68,7 +72,7 @@ Poster
 {{< tdopen >}}
 
 
-[Scientific poster presentation courtesy of Leslie Roldan (PDF)]({{< baseurl >}}/resources/mit9_85f12_posters)
+{{% resource_link a9715072-7bba-3306-3a7a-9895ac9f8c46 "Scientific poster presentation courtesy of Leslie Roldan (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -81,9 +85,9 @@ Original research proposal
 {{< tdopen >}}
 
 
-[Research proposal presentation courtesy of Leslie Roldan (PDF)]({{< baseurl >}}/resources/mit9_85f12_proposal)
+{{% resource_link a09982c8-cd1b-7a0a-45c8-1650d7853e13 "Research proposal presentation courtesy of Leslie Roldan (PDF)" %}}
 
-[Project description (PDF)]({{< baseurl >}}/resources/mit9_85f12_final_project)
+{{% resource_link 32531acc-dab0-53b6-0e1f-a26aa0283df6 "Project description (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -95,6 +99,6 @@ Original research proposal
 Supplementary Resources
 -----------------------
 
-[APA style basics (PDF)]({{< baseurl >}}/resources/mit9_85f12_apa)
+{{% resource_link 95944f3e-f59b-ce8f-f4dc-5263b7cf0761 "APA style basics (PDF)" %}}
 
-[Writing grading rubric (PDF)]({{< baseurl >}}/resources/mit9_85f12_rubric)
+{{% resource_link 264767a3-06e6-edde-43bd-c1ec969d1b42 "Writing grading rubric (PDF)" %}}

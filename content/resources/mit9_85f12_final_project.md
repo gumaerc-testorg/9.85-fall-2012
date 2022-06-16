@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding  project description.
-file: /media/courses/9-85-infant-and-early-childhood-cognition-fall-2012/32531accdab053b60e1fa26aa0283df6_MIT9_85F12_final_project.pdf
+file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/32531accdab053b60e1fa26aa0283df6_MIT9_85F12_final_project.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: '9.85 Assignments: Project description'
 uid: 32531acc-dab0-53b6-0e1f-a26aa0283df6
 ---
+This file contains information regarding  project description.
+
