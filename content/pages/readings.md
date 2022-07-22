@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the list of readings for each session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 970d8b56-ad70-56a5-64f3-7b89c8329e37
 ---
@@ -124,7 +128,7 @@ Object knowledge
 
 Xu, Fei. "[Sortal Concepts, Object Individuation, and Language](http://dx.doi.org/10.1016/j.tics.2007.08.002)." _Trends in Cognitive Sciences_ 11, no. 9 (2007): 400–6.
 
-Spelke, Elizabeth S., Karen Breinlinger, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Origins of Knowledge." (PDF - 5.9MB)](https://www.harvardlds.org/wp-content/uploads/2017/01/spelke1992-1.pdf) _Psychological Review_ 99, no. 4 (1992): 605–32.
+Spelke, Elizabeth S., Karen Breinlinger, et al. ["Origins of Knowledge." (PDF - 5.9MB)](https://www.harvardlds.org/wp-content/uploads/2017/01/spelke1992-1.pdf) _Psychological Review_ 99, no. 4 (1992): 605–32.
 
 
 {{< tdclose >}}
