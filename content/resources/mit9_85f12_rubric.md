@@ -5,6 +5,7 @@ file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/264767a306e6e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '9.85 Assignments: Writing grading rubric'
 uid: 264767a3-06e6-edde-43bd-c1ec969d1b42
 ---
 This file contains information regarding Writing grading rubric.
-

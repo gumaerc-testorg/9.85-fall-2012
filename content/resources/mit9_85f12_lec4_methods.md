@@ -5,6 +5,7 @@ file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/ac556832117b4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ' 9.85 Lecture 4: Methods and perception'
 uid: ac556832-117b-4d24-31a2-52a3728d1e8e
 ---
 This resource contains information regarding methods and perception.
-

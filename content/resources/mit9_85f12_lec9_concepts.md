@@ -6,6 +6,7 @@ file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/74f7005810766
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '9.85 Lecture 9: Concepts: From definitions to features to theories'
 uid: 74f70058-1076-6d8f-fb46-78bb0585f786
 ---
 This resource contains information regarding concepts: From definitions to features to theories.
-

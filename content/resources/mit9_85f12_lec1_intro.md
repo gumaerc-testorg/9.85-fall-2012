@@ -6,6 +6,7 @@ file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/dc77733643d9c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "9.85 Lecture 1: Introduction\u2014philosophical questions, psychological
 uid: dc777336-43d9-c6f2-e3e7-d205a8a0f4a3
 ---
 This resource contains information regarding introduction—philosophical questions, psychological methods.
-

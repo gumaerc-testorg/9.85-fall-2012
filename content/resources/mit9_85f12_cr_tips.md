@@ -5,6 +5,7 @@ file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/7bb82b1e53c1b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '9.85 Assignments: Tips on reading research articles'
 uid: 7bb82b1e-53c1-bc46-3898-5a202a2277ca
 ---
 This file contains information regarding Tips on reading research articles.
-

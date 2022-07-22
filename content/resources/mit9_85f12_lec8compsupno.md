@@ -6,6 +6,7 @@ file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/3c729cc9e2e35
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 8 supplementary notes: Computational models of cognitive develop
 uid: 3c729cc9-e2e3-582e-7dd8-288328155bac
 ---
 This file contains information regarding supplementary notes courtesy of Julian Jara-Ettinger.
-
