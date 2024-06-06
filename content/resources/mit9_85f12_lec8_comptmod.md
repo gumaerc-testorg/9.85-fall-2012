@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding computational models of
   cognitive development.
 file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/b15d17bd0ab50e2b668422660aef4693_MIT9_85F12_lec8_comptmod.pdf
+file_size: 1997025
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding the perception of agency
   and goal-directed action in infancy; agency and attachment.
 file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/bc124009e83abf2a6abf936fed658562_MIT9_85F12_lec11_agency.pdf
+file_size: 2042645
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

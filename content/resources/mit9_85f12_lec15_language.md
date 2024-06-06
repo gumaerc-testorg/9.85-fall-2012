@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding language.
 file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/5b887336d87c5ba21d662dffc5372e77_MIT9_85F12_lec15_language.pdf
+file_size: 1212667
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
