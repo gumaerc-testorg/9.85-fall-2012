@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding statistical reasoning in
   infancy.
 file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/dc2f1e847d53b1083e9e346d7b7f23f8_MIT9_85F12_lec7_stats.pdf
+file_size: 1668986
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

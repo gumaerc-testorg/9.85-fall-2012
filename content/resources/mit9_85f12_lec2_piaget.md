@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding theoretical perspectives
   in developmental psychology: piaget.'
 file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/5fa200b82169ef9b78efe03bcfe7d6d1_MIT9_85F12_lec2_piaget.pdf
+file_size: 604482
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

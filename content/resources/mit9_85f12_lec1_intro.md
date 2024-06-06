@@ -3,6 +3,7 @@ content_type: resource
 description: "This resource contains information regarding introduction\u2014philosophical\
   \ questions, psychological methods."
 file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/dc77733643d9c6f2e3e7d205a8a0f4a3_MIT9_85F12_lec1_intro.pdf
+file_size: 1043539
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
