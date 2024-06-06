@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding  research proposal presentation
   courtesy of Leslie Roldan.
 file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/a09982c8cd1b7a0a45c81650d7853e13_MIT9_85F12_Proposal.pdf
+file_size: 501533
 file_type: application/pdf
 learning_resource_types:
 - Assignments
