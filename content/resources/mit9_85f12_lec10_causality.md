@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding causal knowledge in infancy
   and early childhood.
-file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/4c6a75edc4894bd49a786f0fccc7d1a9_MIT9_85F12_lec10_causality.pdf
+file: /ol-ocw-studio-app/courses/9-85-infant-and-early-childhood-cognition-fall-2012/4c6a75edc4894bd49a786f0fccc7d1a9_MIT9_85F12_lec10_causality.pdf
 file_size: 1471561
 file_type: application/pdf
 learning_resource_types:
