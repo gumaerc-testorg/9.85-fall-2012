@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Brochure description.
-file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/dd0aa3f53cf2848dee5d73831b56ca2e_MIT9_85F12_brochure.pdf
+file: /ol-ocw-studio-app/courses/9-85-infant-and-early-childhood-cognition-fall-2012/dd0aa3f53cf2848dee5d73831b56ca2e_MIT9_85F12_brochure.pdf
 file_size: 529991
 file_type: application/pdf
 learning_resource_types:
