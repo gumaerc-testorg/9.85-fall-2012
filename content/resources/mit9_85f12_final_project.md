@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding  project description.
-file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/32531accdab053b60e1fa26aa0283df6_MIT9_85F12_final_project.pdf
+file: /ol-ocw-studio-app/courses/9-85-infant-and-early-childhood-cognition-fall-2012/32531accdab053b60e1fa26aa0283df6_MIT9_85F12_final_project.pdf
 file_size: 610465
 file_type: application/pdf
 learning_resource_types:
