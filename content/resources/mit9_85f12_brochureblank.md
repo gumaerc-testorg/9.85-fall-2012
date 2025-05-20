@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding  Blank brochure template.
-file: /ol-ocw-studio-app/courses/9-85-infant-and-early-childhood-cognition-fall-2012/661d388e6bdafdaceeb69dde6b8c63e3_MIT9_85F12_brochureblank.pdf
+file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/661d388e6bdafdaceeb69dde6b8c63e3_MIT9_85F12_brochureblank.pdf
 file_size: 571933
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding concepts: From definitions
   to features to theories.'
-file: /ol-ocw-studio-app/courses/9-85-infant-and-early-childhood-cognition-fall-2012/74f7005810766d8ffb4678bb0585f786_MIT9_85F12_lec9_concepts.pdf
+file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/74f7005810766d8ffb4678bb0585f786_MIT9_85F12_lec9_concepts.pdf
 file_size: 1099087
 file_type: application/pdf
 learning_resource_types:

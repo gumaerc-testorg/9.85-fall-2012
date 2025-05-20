@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding General critical response guidelines.
-file: /ol-ocw-studio-app/courses/9-85-infant-and-early-childhood-cognition-fall-2012/82ca7a70871c379d42fc88faa6cf3870_MIT9_85F12_cr_guidelines.pdf
+file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/82ca7a70871c379d42fc88faa6cf3870_MIT9_85F12_cr_guidelines.pdf
 file_size: 579906
 file_type: application/pdf
 learning_resource_types:
