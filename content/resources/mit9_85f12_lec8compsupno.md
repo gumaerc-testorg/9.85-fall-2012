@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding supplementary notes courtesy
   of Julian Jara-Ettinger.
-file: /ol-ocw-studio-app/courses/9-85-infant-and-early-childhood-cognition-fall-2012/3c729cc9e2e3582e7dd8288328155bac_MIT9_85F12_lec8CompSupNo.pdf
+file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/3c729cc9e2e3582e7dd8288328155bac_MIT9_85F12_lec8CompSupNo.pdf
 file_size: 135111
 file_type: application/pdf
 learning_resource_types:
