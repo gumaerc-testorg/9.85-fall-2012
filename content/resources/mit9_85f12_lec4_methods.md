@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding methods and perception.
-file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/ac556832117b4d2431a252a3728d1e8e_MIT9_85F12_lec4_methods.pdf
+file: /ol-ocw-studio-app/courses/9-85-infant-and-early-childhood-cognition-fall-2012/ac556832117b4d2431a252a3728d1e8e_MIT9_85F12_lec4_methods.pdf
 file_size: 783608
 file_type: application/pdf
 learning_resource_types:
