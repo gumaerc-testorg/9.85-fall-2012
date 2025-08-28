@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding APA style basics.
-file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/95944f3ef59bce8ff4dc5263b7cf0761_MIT9_85F12_apa.pdf
+file: /ol-ocw-studio-app/courses/9-85-infant-and-early-childhood-cognition-fall-2012/95944f3ef59bce8ff4dc5263b7cf0761_MIT9_85F12_apa.pdf
 file_size: 68134
 file_type: application/pdf
 learning_resource_types:

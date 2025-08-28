@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Writing grading rubric.
-file: /courses/9-85-infant-and-early-childhood-cognition-fall-2012/264767a306e6edde43bdc1ec969d1b42_MIT9_85F12_rubric.pdf
+file: /ol-ocw-studio-app/courses/9-85-infant-and-early-childhood-cognition-fall-2012/264767a306e6edde43bdc1ec969d1b42_MIT9_85F12_rubric.pdf
 file_size: 74723
 file_type: application/pdf
 learning_resource_types:
